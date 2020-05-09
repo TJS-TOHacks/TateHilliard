@@ -1,0 +1,94 @@
+
+<html>
+
+	
+
+	<title>COVID-19 Guidance Survey</title>
+
+	<div id = "title"> 
+        <br>
+		<h1> COVID-19 Guidance Survey</h1> 
+		<br> 
+
+	</div>
+	<div id = "all">
+
+	<div id = "heading1">
+ 		<h2>If you have any of these symptoms, please check all that apply below</h2>
+	</div>
+
+	<div id = "symptom_check">
+
+		<form>
+			Fever:      <input type = "checkbox" name = "fever_symptom" id = "fever"> <br>
+			Dry Cough:     <input type = "checkbox" name = "cough_symptom" id = "dry_cough"> <br>
+			Fatigue:      <input type = "checkbox" name = "fatigue_symptom" id = "fatigue"> <br>
+			Aches and Pains:      <input type = "checkbox" name = "aches/pain_symptom" id = "ache/pain"> <br>
+			Nasal Congestion:   <input type = "checkbox" name = "nasalCong._symptom" id = "nasal_congestion"> <br>
+			Runny Nose:     <input type = "checkbox" name = "runnyNose_symptom" id = "runny_nose"> <br>
+			Sore Throat:     <input type = "checkbox" name = "soreThroat_symptom" id = "sore_throat"> <br>
+			Diarrhea:    <input type = "checkbox" name = "Diarrhoea_symptom" id = "Diarrhoea"> <br>
+		</form>
+
+    </div>
+    
+
+	<div id = "heading2">
+        <h2>Please enter your age</h2>
+	</div>
+	
+	<div id = "age">
+
+		<form>
+			Age:  <input type = "text" name = "age" id = "Age"> <br>
+		</form>
+
+	</div>
+
+	<div id = "heading3">
+		<h2>Have you come in contact with someone who has tested positive for COVID-19?</h2>
+
+		<form>
+			If so, check here: <input type = "checkbox" name = "exposure" id = "exposure"> <br>
+		</form>
+
+	</div>
+
+	<div id = "heading4">
+		<h2>Do you have any underlying medical conditions</h2>
+	</div>
+
+	<div id = "medical_conditions">
+
+		<form>
+
+			Check this box if you have at least one of the health conditions identified below: <input type = "checkbox" name = "Auto-immune_Disease" id = "Auto-Immune_Diseases"> <br>
+			
+			<ul>
+				<li>Heart Disease</li>
+				<li>High Blood Pressure</li>
+				<li>COPD or other Chronic Respiratory Diseases</li>
+				<li>Diabetes</li>
+				<li>Cancer</li>
+				<li>Autoimmune Disorder</li>
+				<li>Other Immune Deficiencies</li>
+			</ul>
+			
+			
+		</form>
+
+    </div>
+
+    <div id = "button">
+        <a id = "resultsButton">Get Results</a> 
+    </div>
+
+	<script src="backend.js"></script> 
+	
+	<br> <textarea id="textContentOutput" rows="10" cols="50" readonly> </textarea>
+
+	<link rel="stylesheet" href="webpage.css"/>
+	
+
+</html>
+</div>

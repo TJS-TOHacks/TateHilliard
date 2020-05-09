@@ -1,0 +1,46 @@
+
+#all{
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 75px;
+}
+
+#title{
+    font-size: x-large;
+    background-color: #404040;
+    color: white;
+    text-align: center;
+}
+
+#heading1{
+  font-style: italic;
+}
+#heading2{
+  font-style: italic;
+}
+#heading3{
+  font-style: italic;
+}
+#heading4{
+  font-style: italic;
+}
+
+
+#button{
+    
+    text-align: center;
+    background: #00adff;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    width: 140px;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 75px;
+}
+
+
+
+
