@@ -13,4 +13,5 @@ to the general public, and we believe with further development it could greatly 
 issues surrounding COVID-19. Creating this webpage provided us with a low risk medium to learn something new, and we had 
 fun doing it!
 
-Take this survey yourself here: 
+Follow the link to our survey: https://samuelhepditch.github.io/Covid-19-Guidance-Survey/.
+
