@@ -12,3 +12,5 @@ given the opportunity. We are proud of our website because we believe it is an e
 to the general public, and we believe with further development it could greatly alleviate uncertainty and mental health 
 issues surrounding COVID-19. Creating this webpage provided us with a low risk medium to learn something new, and we had 
 fun doing it!
+
+Take this survey yourself here: 
