@@ -1,4 +1,4 @@
-# samuelhepditch.github.io
+# Covid-19 Guidance Survey
 
 Our team understands how stressful life currently is, and we wanted to help out by providing easily accessible and 
 personalized information to anyone. We developed a digital survey for COVID-19 that would provide useful information to 
